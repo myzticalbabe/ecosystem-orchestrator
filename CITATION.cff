@@ -25,7 +25,7 @@ keywords:
   - "scheduling"
   - "cross-project"
   - "coordination"
-license: "CDDL-1.1"
+license: "LicenseRef-SoulForge-1.0"
 repository: "https://github.com/myzticalbabe/ecosystem-orchestrator"
 repository-code: "https://github.com/myzticalbabe/ecosystem-orchestrator"
 repository-artifact: "https://pypi.org/project/ecosystem-orchestrator/"
